@@ -7,5 +7,7 @@ Usage
 -----
 
 msg.exe “Hello World!” “Message”
+
 msg.exe * “Hello World!” “Message”
+
 msg.exe “Hello World!”
