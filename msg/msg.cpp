@@ -30,4 +30,6 @@ int main()
 	MessageBox(NULL, msg, cap, 0);
 
 	ExitProcess(0);
+	
+	return 0;
 }
